@@ -4,7 +4,7 @@ Project Overview
 
 This repository contains a comprehensive data cleaning and exploratory data analysis (EDA) of the Brazilian E-Commerce Public Dataset by Olist. The project focuses on transforming raw transactional data into actionable business insights using Python and the Pandas library.
 
-The analysis covers a wide range of data science workflows, including:
+The analysis covers a wide range of data analyses workflows, including:
 
 •
 Relational Data Merging: Joining 9 distinct tables to reconstruct the full customer journey.
